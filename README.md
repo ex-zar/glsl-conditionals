@@ -5,7 +5,7 @@ available as a module for [glslify](http://github.com/chrisdickinson/glslify).
 
 ## Usage
 
-[![NPM](https://nodei.co/npm/glsl-conditionals.png)](https://nodei.co/npm/glsl-conditionals/)
+[![NPM](https://nodei.co/npm/glsl-conditionals.png)](https://nodei.co/npm/glsl-conditionals/) [![Greenkeeper badge](https://badges.greenkeeper.io/dmnsgn/glsl-conditionals.svg)](https://greenkeeper.io/)
 
 ``` glsl
 // Comparisons
